@@ -266,3 +266,4 @@ tags:
 256. 剑指Offer：二叉树的镜像
 257. Python：if __name__  == "__main__"
 258. 博客维护日志
+259. Ubuntu16.04 安装 JDK
