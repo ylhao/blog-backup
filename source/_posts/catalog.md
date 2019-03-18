@@ -267,3 +267,5 @@ tags:
 257. Python：if __name__  == "__main__"
 258. 博客维护日志
 259. Ubuntu16.04 安装 JDK
+260. Ubuntu16.04 挂载 4TB 硬盘
+
