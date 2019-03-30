@@ -271,5 +271,5 @@ tags:
 261. Java 面试总结（一）
 262. Java 面试总结（二）
 263. Python 中的 __all__
-
+264. C++ 中的 rand 函数和 srand 函数
 
